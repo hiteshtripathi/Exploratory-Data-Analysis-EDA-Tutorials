@@ -1,7 +1,7 @@
 # Exploratory-Data-Analysis-EDA-Tutorials
 Apply EDA to a real-world dataset which is useful for data science project and accomplish it in by completing each task in the project:
 
-#1 Defining Exploratory Data Analysis with an overview of the whole project.
+1# Defining Exploratory Data Analysis with an overview of the whole project.
 
 2# Importing libraries and Exploring the Dataset
 
