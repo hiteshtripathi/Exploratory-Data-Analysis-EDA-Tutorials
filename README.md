@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-EDA-Tutorials
+# Exploratory-Data-Analysis-EDA-Tutorials using Python
 Apply EDA to a real-world dataset which is useful for data science project and accomplish it in by completing each task in the project:
 
 1# Defining Exploratory Data Analysis with an overview of the whole project.
