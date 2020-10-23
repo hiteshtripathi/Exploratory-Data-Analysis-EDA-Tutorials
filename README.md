@@ -11,4 +11,4 @@ Apply EDA to a real-world dataset which is useful for data science project and a
 
 5# Analyzing trends, patterns, and relationships in the Data
 
-Reference: https://www.coursera.org/learn/exploratory-data-analysis-python/ungradedLti/fsCCK/exploratory-data-analysis
+Reference: https://www.coursera.org/learn/exploratory-data-analysis-python
